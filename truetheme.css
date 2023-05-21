@@ -1,0 +1,23 @@
+.data-box {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .data-box th, .data-box td {
+    border: 1px solid #1d02b3;
+    padding: 8px;
+  }
+  
+  .data-box th {
+    background-color: #ff0000;
+  }
+  
+  .data-box tr:nth-child(even) {
+    background-color: #ddc9c9;
+  }
+  
+.yo {
+  color: #ff0000;
+   
+   
+ }

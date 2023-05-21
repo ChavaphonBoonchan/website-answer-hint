@@ -1,0 +1,72 @@
+body {
+    
+    background: linear-gradient(to left, coral, gold);
+    opacity: 1;
+  }
+  
+  .rectangle {
+    width: 60%;
+    height: 280px;
+    background: #fff;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
+  
+  .center {
+    font-size: 32\px;
+  }
+  
+  .anyt {
+    width: 75%;
+    height: 190px;
+    background: #fff;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
+
+  .pop {
+    width: 45%;
+    height: 90px;
+    background: #fff;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
+  
+  
+  
+  .image-frame {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  input[type="text"],
+  button {
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 15px;
+  }
+  
+  .alert {
+    color: red;
+    margin-top: 30px;
+  }
+  
